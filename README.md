@@ -1,0 +1,4 @@
+OpenSpaceAlpha
+==============
+
+game design
